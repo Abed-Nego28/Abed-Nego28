@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADJE Abed, Welcome to my github profile!</h1>
 
 ![](https://cdn.discordapp.com/emojis/413587898760429568.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898856636416.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898479149056.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898869219328.gif?v=1)
-<h2 align="center"> Web developer</h2>
+<h2 align="center"> Web Developer</h2>
 
 ## 👨‍💻 I introduce myself
 ##🤗I'm passionate about code 💻                                              
